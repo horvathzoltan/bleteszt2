@@ -67,7 +67,7 @@
 #include <QtCore/qscopedpointer.h>
 #include <QtCore/qtimer.h>
 
-// valami1
+// valami12
 
 int main(int argc, char *argv[])
 {
